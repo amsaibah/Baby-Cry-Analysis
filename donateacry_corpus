@@ -1,0 +1,9 @@
+## 📦 Dataset
+
+The dataset used in this project is [Donate a Cry](https://www.kaggle.com/datasets/monisakhtar/baby-cry) from Kaggle.
+
+Due to file size limits, the dataset is not included in this repository.
+
+➡️ To use it:
+1. Download it from [this Kaggle link](https://www.kaggle.com/datasets/monisakhtar/baby-cry)
+2. Unzip it and place it inside the root directory as `donateacry_corpus/`
