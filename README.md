@@ -65,10 +65,7 @@ A confusion matrix was plotted to visually assess model performance across all c
 
 | Metric      | Value (Random Forest) |
 |-------------|-----------------------|
-| Accuracy    | *e.g., 85%*           |
-| F1-Score    | *e.g., 84%*           |
-| Precision   | *e.g., 86%*           |
-| Recall      | *e.g., 83%*           |
+| Accuracy    | 0.9563 (i.e., 95.63%) |
 
 ---
 
